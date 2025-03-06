@@ -38,12 +38,10 @@
     "@google-cloud/translate": "^8.2.0",
     "bottleneck": "^2.19.5"
   },
-  "devDependencies": {
-    "@strapi/plugin-i18n": "^4.24.1"
-  },
+  "devDependencies": {},
   "peerDependencies": {
     "lodash": "*",
-    "strapi-plugin-translate": "1.2.4"
+    "strapi-plugin-translate": "2.0.0-next.1"
   },
   "engines": {
     "node": ">=14 <=20",
